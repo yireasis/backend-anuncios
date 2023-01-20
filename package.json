@@ -1,0 +1,32 @@
+{
+  "name": "backend-anuncios",
+  "version": "0.0.1",
+  "description": "Proyecto backend de la API de GraphQL ",
+  "main": "build/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yireasis/backend-anuncios.git"
+  },
+  "keywords": [
+    "graphql",
+    "node",
+    "api-graphql",
+    "mean"
+  ],
+  "author": "Jesus Avila (jesusacevedo.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yireasis/backend-anuncios/issues"
+  },
+  "homepage": "https://github.com/yireasis/backend-anuncios#readme",
+  "engines": {
+    "node": ">=12.0.0",
+    "npm": ">=6.0.0"
+  },
+  "dependencies": {
+    "typescript": "^4.9.4"
+  }
+}
